@@ -31,6 +31,9 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="/app/Views/traitementexo.view.php">Exo</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/app/Views/formulaire.view.php">Formulaire</a>
+                    </li>
                 </ul>
             </div>
         </div>
