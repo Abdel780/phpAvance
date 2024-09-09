@@ -23,7 +23,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Home</a>
+                        <a class="nav-link active" href="/app/Views/requetes.view.php">Les requetes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/app/Views/get.view.php">Le GET</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/app/Views/traitementexo.view.php">Exo</a>
                     </li>
                 </ul>
             </div>
