@@ -3,5 +3,5 @@
 ?>
     <h1>Bienvenue ! </h1>
 <?php
-    include 'app/Views/partials/footer.php';
+        include 'app/Views/partials/footer.php';
 ?>
